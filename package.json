@@ -1,0 +1,18 @@
+{
+  "name": "libnpm-read-package-manifest",
+  "version": "1.0.0",
+  "description": "Read package manifest data off disk",
+  "main": "index.js",
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "json-parse-better-errors": "^1.0.1",
+    "normalize-package-data": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC"
+}
